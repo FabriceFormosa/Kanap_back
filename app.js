@@ -23,5 +23,6 @@ app.use('/api/products', productRoutes);
 app.all('/', (req, res) => {
   console.log("Just got a request!")
   res.send('Yo!')
+})
 
 module.exports = app;
