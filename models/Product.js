@@ -4,7 +4,7 @@ const products = [
     "_id": "107fb5b75607497b96722bda5b504926",
     "name": "Kanap Sinopé",
     "price": 1849,
-    "imageUrl": "kanap01.jpeg",
+    "imageUrl": "'https://beige-giraffe-tux.cyclic.app/images/kanap01.jpeg",
     "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     "altTxt": "Photo d'un canapé bleu, deux places"
   },
